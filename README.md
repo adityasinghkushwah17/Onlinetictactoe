@@ -28,7 +28,7 @@ The application follows a modular and clean architecture, with the following com
 - **Dependency Injection**: Dagger Hilt is used to inject dependencies across the application.
 
 
-##Contribution
+## Contribution
 
 There is Still some issue with the app so please fork the repo and make your contributions.
 
